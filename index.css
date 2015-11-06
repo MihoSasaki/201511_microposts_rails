@@ -41,19 +41,19 @@ header{
     
 
 }
-#page
+#logo
 {
     height:800px;
     padding:80px 0px;
     text-align:center;
     
 }
-#page img{
+#logo img{
     max-width:100px;
     border:0px solid #fff;
     border-radius:100%;
 }
-#page h1{
+#logo h1{
     letter-spacing:3px;
     color:#fff;
     text-shadow:1px 1px 1px #000; 
