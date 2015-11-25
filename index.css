@@ -1,0 +1,92 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body {
+  font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+  background-color: #ddd;
+  font-size: 14px;
+}
+nav{
+    margin: 0 0 30px 0;
+     text-align:center;
+     background:#fff;
+}
+nav ul {
+    margin:0 0 30px 0;
+    padding: 10px 0;
+}
+nav ul li{
+    display:inline-block;
+    margin: 0 20px;
+}
+nav ul li a {
+    padding:15px 10px;
+    text-decoration:none;
+    color: #999;
+    font-weight:bold;
+}
+nav ul li a.selected{
+    color:#000;
+}
+header{
+    height:500px;
+    background-image: url("girl.jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-left:-50px;
+    padding-right:-50px;
+    padding-bottom:100px;
+    
+
+}
+#logo
+{
+    height:800px;
+    padding:80px 0px;
+    text-align:center;
+    
+}
+#logo img{
+    max-width:100px;
+    border:0px solid #fff;
+    border-radius:100%;
+}
+#logo h1{
+    letter-spacing:3px;
+    color:#fff;
+    text-shadow:1px 1px 1px #000; 
+}
+#page2{
+    height:600px;
+    background-image: url("pink_rice.png");
+    background-position:center cover;
+    margin-top:-30px;
+    
+}
+#page2 section{
+    margin-top:10px;
+    
+}
+#page2 section h2{
+    padding-top:40px;
+}
+#page2 section h3 {
+    padding:20px;
+    text-align:center;
+    
+}
+#page2 section p {
+    text-align:center;
+}
+#page3{
+    height:700px;
+}
+#page3 h1{
+    font-size:25px;
+    text-align:center;
+}
+
+
+
